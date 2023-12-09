@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794768604859",
+    "project_id": "siramida-flutter",
+    "storage_bucket": "siramida-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794768604859:android:69d0d9edfe23cb8052b39e",
+        "android_client_info": {
+          "package_name": "com.example.siramida_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNbRF5LQnpJaMRmPy5_qEFPsE2cpWCrqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
